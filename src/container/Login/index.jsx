@@ -112,7 +112,7 @@ const Login = () => {
           <div className={s.agree}>
             <Checkbox />
             <label className="text-light">
-              阅读并同意<a>《掘掘手札条款》</a>
+              阅读并同意<a>《条款》</a>
             </label>
           </div>
         ) : null}
